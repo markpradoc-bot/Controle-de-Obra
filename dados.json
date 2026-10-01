@@ -1,0 +1,28 @@
+{
+  "publicadoEm": "",
+  "estado": {
+    "version": 2,
+    "config": {
+      "obra": "",
+      "inicio": "",
+      "fim": "",
+      "empresas": [],
+      "responsaveis": [],
+      "valorEmpreitada": 0,
+      "exemploCarregado": false
+    },
+    "regions": [],
+    "tasks": [],
+    "orcamento": [],
+    "contratos": [],
+    "pagamentos": [],
+    "recebimentos": [],
+    "solicitacoes": [],
+    "cotacoes": [],
+    "materiais": [],
+    "observacoes": [],
+    "diario": [],
+    "equipeLog": [],
+    "snapshots": {}
+  }
+}
